@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Muhammad is a professional data at QS Enrollment Solutions Sdn Bhd. His interests include artificial intelligence, data handling and data related towards food. He handles data related matters for some specific clients around the globe, which collecting data, handling data, and analysing data.
+Muhammad is a data professional at QS Enrollment Solutions Sdn Bhd. His interests include artificial intelligence, data handling and food related data. He handles data related matters for some specific clients around the globe, which collecting data, handling data, and analysing data.
 
-Muhammad adalah seorang professional data di QS Enrollments Solutions Sdn Bhd. Beliau berminat dalam kecerdasan buatan, pengurusan data dan data berkaitan makanan. Beliau mengumpul data, menyelia data dan menganalisa data untuk beberapa klien di serata dunia. 
+Muhammad adalah seorang professional data di QS Enrollments Solutions Sdn Bhd. Beliau berminat dalam kecerdasan buatan, pengurusan data dan data berkaitan makanan. Beliau mengumpul, menyelia dan menganalisa data untuk beberapa klien di serata dunia. 
