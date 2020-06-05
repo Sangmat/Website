@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2019-01-01"
   description = ""
-  Responsibilities_include:
+  """Responsibilities_include:
   
   * Analysing
   * Modelling
