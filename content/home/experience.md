@@ -37,6 +37,10 @@ date_format = "Jan 2006"
   location = "Plaza Sentral"
   date_start = "2020-03-01"
   date_end = ""
-  description = """"""
+  description = """
+  * Extracting
+  * Handling
+  * Reporting
+  """
 
 +++
