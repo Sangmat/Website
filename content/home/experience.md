@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Plaza Sentral"
   date_start = "2020-03-01"
   date_end = ""
-  description = """Responsible for processing student data into a usable and acceptable format for input into Customer Relationship Management System (CRMS) in a timely manner and within stipulated deadlines and collaborate with Client Success and Student Success teams globally to ensure a seamless process in formatting data for inquiry and offer management."""
+  description = """"""
 
 +++
